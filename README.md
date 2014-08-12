@@ -8,8 +8,8 @@ This sample is created by following [this](https://github.com/libgdx/libgdx/wiki
 <h6>Changes different from libGDX wiki</h6>
 
 - remove the java and HTML5 project
-- extract the `screenWidth` and `screenHeight` parameters
-- extract the parameters that can affect game difficulty, that `rainSpeed` and `rainDropInteval`
+- extract the `screenWidth` and `screenHeight` parameters, and change the unit to `dp`
+- extract the parameters that can affect game difficulty, like `rainSpeed` and `rainDropInteval`
 - remove sound effect because the sound assets, [water drop](http://www.freesound.org/people/junggle/sounds/30341/) and [rain sound](http://www.freesound.org/people/acclivity/sounds/28283/), could be found
 
 
